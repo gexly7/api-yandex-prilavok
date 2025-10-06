@@ -34,8 +34,12 @@
 
 **Тестирование API:**
 - Чек-лист тестирования: [Ссылка на таблицу](https://docs.google.com/spreadsheets/d/1txjDULOCZWeizQtvwhRL91lqNOkER6tR0uEROYjuMEw/edit?usp=sharing)
+  
+![Скриншот чек-листа](https://github.com/user-attachments/assets/68e9b955-2a32-491a-8cbf-727312893bfb)
+![Скриншот чек-листа лист2](https://github.com/user-attachments/assets/e7bd31e5-33db-42e2-aa32-32d5a6f94a24)
+
 - Баг-репорты: [Ссылка на таблицу с багами](https://docs.google.com/spreadsheets/d/1txjDULOCZWeizQtvwhRL91lqNOkER6tR0uEROYjuMEw/edit?gid=1190841100#gid=1190841100)
 
-**Примеры тестов:**
-![Скриншот успешного теста](ссылка_на_скриншот)
-![Скриншот ошибки API](ссылка_на_скриншот)
+![Скриншот баг-репорт лист1](https://github.com/user-attachments/assets/a632e515-ca5f-41ac-a07c-ea190ddbd1c4)
+![Скриншот баг-репорт лист2](https://github.com/user-attachments/assets/bd134749-8309-4a99-b82e-988831f9c4d6)
+![Скриншот баг-репорт лист2](https://github.com/user-attachments/assets/7811c4b9-2cd5-4259-8ec3-277bd911d4ff)
