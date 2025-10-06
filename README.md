@@ -33,8 +33,8 @@
 ### Результаты работы
 
 **Тестирование API:**
-- Чек-лист тестирования: [Ссылка на таблицу](https://docs.google.com/spreadsheets/d/1QeK8K3K_icHlN1DQRi4mw_vT2C1hVP0RM40EUesfma0/edit?usp=sharing)
-- Баг-репорты: [Ссылка на таблицу с багами](https://docs.google.com/spreadsheets/d/1QeK8K3K_icHlN1DQRi4mw_vT2C1hVP0RM40EUesfma0/edit?gid=1190841100#gid=1190841100)
+- Чек-лист тестирования: [Ссылка на таблицу](https://docs.google.com/spreadsheets/d/1txjDULOCZWeizQtvwhRL91lqNOkER6tR0uEROYjuMEw/edit?usp=sharing)
+- Баг-репорты: [Ссылка на таблицу с багами](https://docs.google.com/spreadsheets/d/1txjDULOCZWeizQtvwhRL91lqNOkER6tR0uEROYjuMEw/edit?gid=1190841100#gid=1190841100)
 
 **Примеры тестов:**
 ![Скриншот успешного теста](ссылка_на_скриншот)
